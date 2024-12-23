@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- I'm [Your Name], a [Your Profession/Role] from [Your Location]. I love [mention your interests or hobbies].
+## 🔭 Current Projects
+- Project 1: Brief description of what this project is about.
+- Project 2: Brief description of what this project is about.
+## 🌱 Learning
+I'm currently learning:
+- [Technology or Skill 1]
+- [Technology or Skill 2]
+## 📫 How to Reach Me
+- Email: [your-email@example.com]
+- LinkedIn: Your LinkedIn Profile
+- Twitter: @your-twitter-handle
+## ⚡ Fun Fact
+Share a fun fact about yourself!
+## 📈 GitHub Stats
+!Your GitHub stats
+## 🏆 GitHub Trophies
+!GitHub Trophies --!>
