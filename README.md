@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Update Feb 2025:
+Participated in GlobalGameJam HK 2025 in January, Game: Bublee
+
+
 <!--
 **Elejunphant/Elejunphant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
