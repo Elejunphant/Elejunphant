@@ -2,7 +2,8 @@
 
 Update Feb 2025:
 Participated in GlobalGameJam HK 2025 in January with some friends, 2D Game: Bublee [https://github.com/covector/bublee]
-Might contribute to another GameJam with Them (3D!!) : [https://github.com/covector/nah-id-take-that-photo]
+
+My friends also joined another GameJam with this 3D game : [https://github.com/covector/nah-id-take-that-photo]
 
 
 <!--
